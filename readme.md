@@ -1,6 +1,10 @@
 
 ## Project Run
-composer update
+<li>composer update</li>
+
+## Admin User and Password
+<li>User:subrata6630@gmail.com</li>
+<li>Pass:123456</li>
 
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
