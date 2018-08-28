@@ -1,3 +1,11 @@
+
+## Project Run
+composer update
+
+php artisan migrate
+
+
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
@@ -37,6 +45,10 @@ We would like to extend our thanks to the following sponsors for helping fund on
 - **[Styde](https://styde.net)**
 - [Fragrantica](https://www.fragrantica.com)
 - [SOFTonSOFA](https://softonsofa.com/)
+
+
+
+
 
 ## Contributing
 
